@@ -19,7 +19,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
     private WebView webView;
     private CustomWebViewClient webViewClient;
-    private String Url = "http://ceng4u.com";
+    private String Url = "your web site";
     private String exampleURL ="http://ceng4u.com";
 
     ProgressDialog mProgressDialog;
